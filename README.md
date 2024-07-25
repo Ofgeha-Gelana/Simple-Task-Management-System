@@ -3,7 +3,7 @@
 ### Run the following commands to get started:
 
 ```
-git clone https://github.com/badrkamel/Simple-Task-Management-System.git
+git clone https://github.com/Ofgeha-Gelana/Simple-Task-Management-System.git
 virtualenv env
 ```
 #### Activate the virtual environment
